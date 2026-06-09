@@ -86,7 +86,7 @@ Make sure you have the following installed:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/git-GUI.git
+git clone https://github.com/Ahmedkhan-dev99/git-GUI.git
 
 # 2. Navigate to the project
 cd git-GUI/open-sorce
