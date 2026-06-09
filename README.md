@@ -52,22 +52,22 @@
 
 ### Repository Loaded — Commit History
 <p align="center">
-  <img src="preview/Screenshot 2026-06-10 003117.png" alt="GitGUI Commit History" width="800"/>
+  <img src="preview/image2.png" alt="GitGUI Commit History" width="800"/>
 </p>
 
 ### Making a Commit
 <p align="center">
-  <img src="preview/Screenshot 2026-06-10 003129.png" alt="GitGUI Commit Form" width="800"/>
+  <img src="preview/image3.png" alt="GitGUI Commit Form" width="800"/>
 </p>
 
 ### Commit Timeline View
 <p align="center">
-  <img src="preview/Screenshot 2026-06-10 003221.png" alt="GitGUI Timeline" width="800"/>
+  <img src="preview/image4.png" alt="GitGUI Timeline" width="800"/>
 </p>
 
 ### Branch & Status Overview
 <p align="center">
-  <img src="preview/Screenshot 2026-06-10 003232.png" alt="GitGUI Branch Info" width="800"/>
+  <img src="preview/image5.png" alt="GitGUI Branch Info" width="800"/>
 </p>
 
 <br/>
