@@ -47,7 +47,7 @@
 
 ### Welcome Screen
 <p align="center">
-  <img src="preview/Screenshot 2026-06-10 003014.png" alt="GitGUI Welcome Screen" width="800"/>
+  <img src="preview/image1.png" alt="GitGUI Welcome Screen" width="800"/>
 </p>
 
 ### Repository Loaded — Commit History
